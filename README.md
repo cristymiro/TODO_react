@@ -1,4 +1,6 @@
-# TODO_react
+# TODO_react (publish it on github personal pages)
+
+- <https://www.youtube.com/watch?v=QyFcl_Fba-k>
 
 TODO app made with React (CRUD)
 
